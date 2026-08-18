@@ -1,4 +1,5 @@
 # Sistema de Biblioteca
+## Autor: Gustavo Alexandre
 
 Sistema desktop desenvolvido em Java para Bibliotecas.
 
